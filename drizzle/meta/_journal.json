@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715021441805,
+      "tag": "0000_chunky_starbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715022334232,
+      "tag": "0001_giant_the_leader",
+      "breakpoints": true
+    }
+  ]
+}
